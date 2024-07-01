@@ -13,6 +13,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "copy-to-clipboard": "^3.3.3",
     "vue": "^3.4.29"
   },
   "devDependencies": {
